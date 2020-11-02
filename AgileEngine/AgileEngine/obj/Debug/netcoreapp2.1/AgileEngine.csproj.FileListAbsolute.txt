@@ -1,0 +1,14 @@
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.csprojAssemblyReference.cache
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.csproj.CoreCompileInputs.cache
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\bin\Debug\netcoreapp2.1\AgileEngine.deps.json
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\bin\Debug\netcoreapp2.1\AgileEngine.runtimeconfig.json
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\bin\Debug\netcoreapp2.1\AgileEngine.runtimeconfig.dev.json
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\bin\Debug\netcoreapp2.1\AgileEngine.dll
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\bin\Debug\netcoreapp2.1\AgileEngine.pdb
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.RazorAssemblyInfo.cache
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.RazorAssemblyInfo.cs
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.AssemblyInfoInputs.cache
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.AssemblyInfo.cs
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.RazorTargetAssemblyInfo.cache
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.dll
+C:\Users\OROBLES1\source\repos\AgileEngine\AgileEngine\obj\Debug\netcoreapp2.1\AgileEngine.pdb
